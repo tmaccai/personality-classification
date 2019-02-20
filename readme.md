@@ -1,6 +1,4 @@
 # Put all the files in the same directory
-# If have any problem in running the following steps, please contact: yangcai@umich.edu
-
 
 ## requirements
 sklearn, pickle, numpy, keras, sys, tensorflow 1.12
