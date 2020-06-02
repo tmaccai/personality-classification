@@ -4,8 +4,8 @@
 sklearn, pickle, numpy, keras, sys, tensorflow 1.12
 
 
-# Make sure run the following steps sequentially
-# To save time, you can run steps[j:] where j in [1,2,3,4]
+Make sure run the following steps sequentially
+To save time, you can run steps[j:] where j in [1,2,3,4]
 
 ## steps
 
